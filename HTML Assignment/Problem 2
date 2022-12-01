@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- Write your code here -->
+    <h1>
+        <center><u>My Name is YourName</ul></center> 
+    </h1>
+    <ul>
+        <h3>
+            <li type="square">My favorite books</li>
+        </h3>
+        <ul>
+            
+            <li type="disc">Harry Potter</li>
+            <li type="disc">The God of Small Things</li>
+            <li type="disc">The Prophet</li>
+        </ul>
+        <h3>
+            <li type="square">My favorite writers</li>
+        </h3>
+        <ul>
+            
+            <li type="circle">JK Rowing</li>
+            <li type="circle">Arundhati Roy</li>
+            <li type="circle">Kahlil Gibran</li>
+        </ul>
+        
+    </ul>
+    <ol type="i">
+        <h3>
+            <li>My favorite subjects</li>
+        </h3>
+        <ol type="a">
+            
+            <li>Data Structure and Algorithm</li>
+            <li>Operating System</li>
+            <li>DBMS</li>
+        </ol>
+        <h3>
+            <li>Online course I wish to explore</li>
+        </h3>
+        <ol type="1" start="4">
+            <li>Frontend using HTML,CSS,JS</li>
+            <li>Frontend using React.js</li>
+            <li>Backend using Node.js</li>
+            
+        </ol>
+        
+        
+    </ol>
+</body>
+</html>
