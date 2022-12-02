@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+<head> </head>
+
+<body>
+    <header>
+        <h2>Already Registered? <u>LOGIN</u> now</h2>
+        <div>
+            <span>
+                <label for="email"> <b>Email</b> </label>
+                <input type="email" name="email" id="email" required placeholder="abc@gmail.com" />
+            </span>
+            <span>
+                <label for="password"> <b>Password</b> </label>
+                <input type="password" name="password" id="password" required />
+            </span>
+            <span> <input type="button" value="Login" /> </span>
+        </div>
+        <hr />
+        <br />
+
+        <a href="CodingNinjasBlog "> <b> Coding Ninjas Blog</b></a>
+        <br />
+        <br />
+        <img src="https://ninjasfiles.s3.amazonaws.com/0000000000001395.png" width="100%" height="300" />
+        <hr />
+
+        <form action="" method="post"></form>
+    </header>
+
+    <br />
+    <br />
+
+    <main>
+        <section>
+            <h1>
+                <b> <u>REGISTRATION</u></b>
+            </h1>
+        </section>
+
+        <br />
+
+        <section>
+            <form action="" method="post">
+                <div>
+                    <label for="name">First Name: </label>
+                    <input type="text" />
+                    <br />
+                    <label for="name">Last Name: </label>
+                    <input type="text" />
+                    <br />
+                    &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+                    &nbsp &nbsp
+                    <label for="Flat No./House No."> Flat No./House No. </label>
+
+                    <input type="text" />
+                    <br />
+                    <label for="current addres"> Current Adress: </label>
+                    <label for="locality">Locality </label>
+                    &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+                    <input type="text" />
+                    <br />
+                    &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+                    &nbsp &nbsp
+
+                    <label for="city"> City </label>
+                    &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+                    &nbsp
+                    <input type="text" />
+                    <br />
+                    <span>
+                        <b>Is Current And Permanent Adress Same ?</b>
+                        <input type="radio" name="adress" value="yes" /> yes
+                        <input type="radio" name="adress" value="no" /> no
+                    </span>
+                    <br />
+                    <label for="email"> Email: </label>
+                    &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+                    <input type="text" placeholder="abc@gmail.com" />
+                    <br />
+                    <label for="password"> Password: </label>
+                    &nbsp &nbsp &nbsp &nbsp &nbsp
+                    <input type="password" />
+                </div>
+            </form>
+        </section>
+    </main>
+</body>
+
+</html>
