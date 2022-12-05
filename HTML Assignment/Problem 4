@@ -73,7 +73,7 @@
                 Commenting is one such practice that is often ignored by programmers, especially for codes that are
                 written by multiple programmers. However, comments reduce the cost of knowledge transfer. Name of the
                 module, purpose of the module, description of the module, original author, modifications and authors who
-                modified code with a description on why it was modified were components of an early commenting practice.
+                modified code with a description on why it was modified were component of an early commenting practice.
             </p>
         </li>
 
